@@ -1,0 +1,6 @@
+{
+  "name": "The 1 Badges Debug",
+  "description": "Compare a user's tags lit to badge master",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
+}
